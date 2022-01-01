@@ -20,4 +20,4 @@ Notes:
 - All new hexes interact as expected with Witches and Eldrich Beasts.
 - The Hex of Cloning/Hexing/Necromancy and Goat work with the Conveyor Belt item, but *not* the Conveyor Belt essence, due to API limitations.
 
-Source Code: https://github.com/ValgoBoi/LBAL-mods
+Source Code: https://github.com/ValgoBoi/Luck-Be-A-Landlord-Mods
